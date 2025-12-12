@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ## Hola desdes gitHub
-Vive la vida y no dejes que la vida te viva
+Vive la vida y no dejes que la calla mrd
